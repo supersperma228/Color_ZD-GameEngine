@@ -7,6 +7,5 @@ Already features a custom rendering system, Jolt Physics integration, SoLoud aud
 Designed for ease of use, a clean interface, and extensive scripting capabilities.
 
 Use Issues for bugs and suggestions.
-Use Pull Requests to contribute.
 
 ![Engine Screenshot](images/image1.jpg)
